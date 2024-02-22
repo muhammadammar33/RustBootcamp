@@ -117,6 +117,9 @@ This project is licensed under the [MIT License](LICENSE).
 ImgCreator prompt:
 futuristic happy digital painting with a MASCOT (animal or robot) hero in a happy, bright futuristic SETTING ( village, city, forest, home), KEYWORDS (physical actions)
 
+![image](https://github.com/muhammadammar33/RustBootcamp/assets/97840213/6e094940-f4da-4bb0-89f4-4ffbca7f0072)
+
+
 Visual:
 - mascot: bull
 - setting: city
